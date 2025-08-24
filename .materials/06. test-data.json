@@ -1,0 +1,32 @@
+{
+  "create": {
+    "article": {
+      "title": "SoftUni Seminar",
+      "description": "Developing Playwright Framework for REST API Testing",
+      "body": "1. The Two Sides of an Application\n2. Where Do The Bugs Hide\n3. API Testing\n4. The Power of a Unified Tool\n5. Developing Playwright Framework for REST API Testing\n5.1 Improving Developer Experience (DX)\n5.2 The Abstraction Layer\n5.3 The Magic – Custom Fixtures\n5.4 Bulletproof – Zod Schema Validation",
+      "tagList": [
+        "testing",
+        "automation",
+        "playwright",
+        "API",
+        "typescript",
+        "Zod"
+      ]
+    }
+  },
+  "update": {
+    "article": {
+      "title": "SoftUni Seminar - 25 August 2025",
+      "description": "Developing Playwright Framework for REST API Testing - Building Framework that people actually want to use",
+      "body": "1. The Two Sides of an Application\n2. Where Do The Bugs Hide\n3. API Testing\n4. The Power of a Unified Tool\n5. Developing Playwright Framework for REST API Testing\n5.1 Improving Developer Experience (DX)\n5.2 The Abstraction Layer\n5.3 The Magic – Custom Fixtures\n5.4 Bulletproof – Zod Schema Validation",
+      "tagList": [
+        "testing",
+        "automation",
+        "playwright",
+        "API",
+        "typescript",
+        "Zod"
+      ]
+    }
+  }
+}
