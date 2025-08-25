@@ -2,6 +2,8 @@
 
 The necessary materials for Developing Playwright Framework for REST API Testing
 
+## Link to Repository with the materials - [repo](https://github.com/idavidov13/SoftUni-PW-API-Framework-Materials)
+
 ## Steps to create the framework
 
 1. Install Playwright
