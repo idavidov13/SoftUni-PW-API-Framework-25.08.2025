@@ -1,0 +1,25 @@
+{
+  "name": "softuni-pw-api-framework-25.08.2025",
+  "version": "1.0.0",
+  "description": "The necessary materials for Developing Playwright Framework for REST API Testing",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idavidov13/SoftUni-PW-API-Framework-25.08.2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idavidov13/SoftUni-PW-API-Framework-25.08.2025/issues"
+  },
+  "homepage": "https://github.com/idavidov13/SoftUni-PW-API-Framework-25.08.2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  },
+  "dependencies": {
+    "zod": "^4.1.1"
+  }
+}

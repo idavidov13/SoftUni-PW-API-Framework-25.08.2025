@@ -13,6 +13,9 @@ The necessary materials for Developing Playwright Framework for REST API Testing
 
 3. Create User in https://conduit.bondaracademy.com/
 
+softuni@test.bg
+softuni123
+
 4. Build first API test with default API Requests
 
 5. User Snippets (Ctrl+Shift+P -> Snippets: Configure Snippets -> New Global Snippets file... -> playwright-snippets.json -> Paste json code)
